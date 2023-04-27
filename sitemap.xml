@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://stefanraatz.github.io/Material4MkDocs/en/latest/</loc>
+         <loc>https://stefanraatz.github.io/Material4MkDocs/</loc>
          <lastmod>2023-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stefanraatz.github.io/Material4MkDocs/en/latest/Prometheus%20MSLA%20Printer/</loc>
+         <loc>https://stefanraatz.github.io/Material4MkDocs/Prometheus%20MSLA%20Printer/</loc>
          <lastmod>2023-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stefanraatz.github.io/Material4MkDocs/en/latest/The%20Apollo%20Control%20Board/apollodetails/</loc>
+         <loc>https://stefanraatz.github.io/Material4MkDocs/The%20Apollo%20Control%20Board/apollodetails/</loc>
          <lastmod>2023-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stefanraatz.github.io/Material4MkDocs/en/latest/The%20Apollo%20Control%20Board/apollooverview/</loc>
+         <loc>https://stefanraatz.github.io/Material4MkDocs/The%20Apollo%20Control%20Board/apollooverview/</loc>
          <lastmod>2023-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stefanraatz.github.io/Material4MkDocs/en/latest/The%20Apollo%20Control%20Board/piinstallation/</loc>
+         <loc>https://stefanraatz.github.io/Material4MkDocs/The%20Apollo%20Control%20Board/piinstallation/</loc>
          <lastmod>2023-04-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
